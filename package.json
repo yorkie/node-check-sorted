@@ -1,0 +1,10 @@
+{
+  "name": "check-sorted",
+  "author": "Yorkie Neil <yorkiefixer@gmail.com>",
+  "version": "0.0.1",
+  "repository": "yorkie/node-check-sorted",
+  "description": "little utility for checking an array is sorted",
+  "keywords": ["array"],
+  "dependencies": {},
+  "license": "MIT"
+}
